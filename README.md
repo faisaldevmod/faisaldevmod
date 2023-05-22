@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @faisaldevmod
-- 👀 I’m interested in full stack deveplopment, machine learning 
-- 🌱 I’m currently learning neural networks
-- 💞️ I’m looking to collaborate on AI projects
-- 📫 How to reach me ...
+- 👀 I’m interested in full stack deveplopment 
+
+
+
 
 <!---
 faisaldevmod/faisaldevmod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
